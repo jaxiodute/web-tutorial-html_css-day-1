@@ -1,0 +1,87 @@
+.header{
+    
+    
+    padding: 10px;
+}
+.header h1{
+    margin: 8px;
+}
+.header p{
+    margin: 8px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+    background-color:#ff6347;
+    color: #ffffff;
+
+}
+.section-1{
+    height: 300px;
+    
+    color: #000000;
+   
+}
+
+.section-1 .section-1_content-1
+{
+    position: relative;
+    top: 25%;
+    text-align: center;
+}
+.section-1 .section-1_content-1
+{
+    position: relative;
+    top: 25%;
+    text-align: center;
+}
+
+.section-1 .section-1_content-1 h3
+{
+    color: #E6E6FA;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.section-1 .section-1_content-1 button
+{
+    margin-top: 20px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 25px;
+    border: none;
+}
+.section-2
+{
+    letter-spacing: 5px;
+}
+.section-2 center p{
+    margin: 10px;
+}
+.card{
+    background-color: whitesmoke;
+    display: inline-block;
+    padding: 30px;
+    color: black;
+    width: 20%;
+    box-sizing: border-box;
+    position: relative;
+    left: 40%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.skill{
+    margin:0 auto;
+}
+.address{
+    margin: 10px;
+    float: left;
+}
+.contact{
+    margin: 10px;
+    float: right;
+}
